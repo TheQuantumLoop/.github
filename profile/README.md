@@ -1,5 +1,26 @@
-## Hi there 👋
+# The Quantum Loop
 
+## Who are we
+The Quantum Loop is an organization created to provide software to the people.
+
+It currently consists of 2 developer. [@porfanid](https://github.com/porfanid) and [@Vaggtzm](https://github.com/Vaggtzm).
+Together, the 2 of us are devoting our free time to create, host and publish different projects that will interest many different people.
+
+## Where you can find us
+
+You can find us at our social media platforms:
+
+ - Instagram: [@porfanid](https://instagram.com/porfanid) and [@vagellis.dev](https://instagram.com/vagellis.dev)
+ - Github: [@porfanid](https://github.com/porfanid) and [@Vaggtzm](https://github.com/Vaggtzm)
+ - Twitter: [@paul_porfanid](https://twitter.com/paul_porfanid) and [@vaggelis_tzim](https://twitter.com/vaggelis_tzim)
+
+## Contribution to the repositories
+If you want to contribute to any of these repos, you are most welcome to. But of course, you are going to have to follow the contribution guidelines that each project has
+
+
+<!--
+In our repositories you can find many projects that we have created.
+-->
 <!--
 
 **Here are some ideas to get you started:**
