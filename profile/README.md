@@ -6,6 +6,23 @@ The Quantum Loop is an organization created to provide software to the people.
 It currently consists of 2 developer. [@porfanid](https://github.com/porfanid) and [@Vaggtzm](https://github.com/Vaggtzm).
 Together, the 2 of us are devoting our free time to create, host and publish different projects that will interest many different people.
 
+## Members
+
+### Pavlos Orfanidis ([porfanid](https://github.com/porfanid))
+![Pavlos Orfanidis](https://github.com/porfanid.png?size=100)
+
+Pavlos is the back-end developer. He is working on nodejs using the firebase nosql or a mariadb database to store the data he requires for each project he creates. He can code anything you want using [![Node][Node.js]][Node-url], PHP, Java, Bash, C, C++ and other programming languages that you can ind on his [GitHub Profile](https://github.com/porfanid)
+
+### Vaggelis Tzimas ([Vaggtzm](https://github.com/Vaggtzm))
+![Vaggelis Tzimas](https://github.com/Vaggtzm.png?size=100)
+
+Vaggelis is the front-end developer. He can manipulate the css data to style a website in any way you want. He is can use plain html, css and javascript, but he is also learning [![React][React.js]][React-url]. You can find many of his projects at his [GitHub Profile](https://github.com/Vaggtzm)
+
+
+[React.js]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+[React-url]: https://react.dev/
+[Node.js]: https://img.shields.io/badge/Node.js-35495E?style=for-the-badge&logo=nodedotjs&logoColor=4FC08D
+[Node-url]: https://nodejs.org/
 ## Where you can find us
 
 You can find us at our social media platforms:
