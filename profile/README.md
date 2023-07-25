@@ -1,3 +1,5 @@
+[![TheQuantumLoop Logo](../images/logo.png)](https://thequantumloop.com)
+
 # The Quantum Loop
 
 ## Who are we
@@ -28,7 +30,7 @@ Vaggelis is the front-end developer. He can manipulate the css data to style a w
 You can find us at our social media platforms:
 
  - Instagram: [@porfanid](https://instagram.com/porfanid) and [@vagellis.dev](https://instagram.com/vagellis.dev)
- - Github: [@porfanid](https://github.com/porfanid) and [@Vaggtzm](https://github.com/Vaggtzm)
+ - Github: [@porfanid](https://github.com/porfanid) and [@Vaggtzm](h    ttps://github.com/Vaggtzm)
  - Twitter: [@paul_porfanid](https://twitter.com/paul_porfanid) and [@vaggelis_tzim](https://twitter.com/vaggelis_tzim)
 
 ## Contribution to the repositories
