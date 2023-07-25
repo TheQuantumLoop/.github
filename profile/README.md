@@ -1,4 +1,4 @@
-[![TheQuantumLoop Logo](./images/logo.png)](https://thequantumloop.com)
+[![TheQuantumLoop Logo](https://thequantumloop.github.io/logo.png)](https://thequantumloop.com)
 
 # The Quantum Loop
 
